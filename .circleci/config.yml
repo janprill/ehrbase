@@ -1777,7 +1777,7 @@ executors:
       PIPELINE_ID: << pipeline.id >>
       BRANCH_NAME: << pipeline.git.branch >>
     machine:
-      image: ubuntu-2004:202008-01
+      image: ubuntu-2004:202010-01
 
 
 
